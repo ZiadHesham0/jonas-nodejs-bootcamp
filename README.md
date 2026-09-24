@@ -29,9 +29,9 @@ This repository is a comprehensive collection of all projects, exercises, and ar
 | Section | Project / Topic              | Status         |
 |---------|------------------------------|----------------|
 | 01      | Node.js Fundamentals         | Completed ✅   |
-| 02      | How Node.js Works            | Completed ✅   |
-| 03      | Asynchronous JavaScript      | Completed ✅   |
-| 04      | Building a REST API (Natours) | In Progress   |
+| 02      | How Node.js Works            | In Progress   |
+| 03      | Asynchronous JavaScript      | Not Started   |
+| 04      | Building a REST API (Natours) | Not Started   |
 | 05      | Express & Middleware         | Not Started    |
 | 06      | MongoDB & Mongoose           | Not Started    |
 | 07      | Error Handling               | Not Started    |
@@ -79,7 +79,3 @@ npm install
 
 # Start the development server
 npm run start:dev
-
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
